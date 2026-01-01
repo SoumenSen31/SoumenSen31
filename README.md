@@ -11,11 +11,14 @@
 
 ## My Code DNA
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoumenSen31&locale=en&layout=compact&theme=dark&hide_border=false" height="130" alt="top languages" />
   <img src="https://streak-stats.demolab.com?user=SoumenSen31&theme=dark&hide_border=false&border_radius=12" height="130" alt="GitHub streak" />
-</div>
+</div> -->
 
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen31&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F707&width=435&lines=>+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
