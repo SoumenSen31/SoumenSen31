@@ -1,4 +1,4 @@
-![Soumen Sen](https://ik.imagekit.io/xrrsiofbq/GitHub%20/SAVE_20260827_025910.jpg)
+![Soumen Sen](https://ik.imagekit.io/xrrsiofbq/svgviewer-png-output%20(1).png?updatedAt=1779376442310)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Soumen;I'm+a+Data+Scientist;I+turn+data+into+stories)](https://git.io/typing-svg)
 
