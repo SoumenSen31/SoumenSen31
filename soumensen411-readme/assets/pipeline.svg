@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 235" width="1000" height="235" role="img" aria-label="Data science pipeline: collect, clean, explore, model, deploy">
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#24c6dc"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1000" height="235" rx="18" fill="#0d1117"/>
+<text x="500" y="34" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8b949e">pipeline.run()  //  from raw data to deployed model</text>
+<path d="M25 178 H975" stroke="url(#lg)" stroke-width="2" stroke-dasharray="6 6" opacity="0.5"/>
+<rect x="25" y="65" width="150" height="90" rx="14" fill="#161b22" stroke="url(#lg)" stroke-opacity="0.45" stroke-width="1.5"/>
+<rect x="25" y="65" width="150" height="90" rx="14" fill="#24c6dc" fill-opacity="0" stroke="#24c6dc" stroke-width="2.5" stroke-opacity="0"><animate attributeName="fill-opacity" values="0;0.16;0.16;0;0" keyTimes="0;0.02;0.1579;0.2079;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.1579;0.2079;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<text x="100" y="92" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#f472b6">01</text>
+<text x="100" y="119" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="19" font-weight="700" fill="#e6edf3">COLLECT</text>
+<text x="100" y="141" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">python | mongodb</text>
+<rect x="225" y="65" width="150" height="90" rx="14" fill="#161b22" stroke="url(#lg)" stroke-opacity="0.45" stroke-width="1.5"/>
+<rect x="225" y="65" width="150" height="90" rx="14" fill="#24c6dc" fill-opacity="0" stroke="#24c6dc" stroke-width="2.5" stroke-opacity="0"><animate attributeName="fill-opacity" values="0;0;0.16;0.16;0;0" keyTimes="0;0.1905;0.2305;0.3684;0.4184;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.1905;0.2305;0.3684;0.4184;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<text x="300" y="92" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#f472b6">02</text>
+<text x="300" y="119" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="19" font-weight="700" fill="#e6edf3">CLEAN</text>
+<text x="300" y="141" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">pandas | numpy</text>
+<rect x="425" y="65" width="150" height="90" rx="14" fill="#161b22" stroke="url(#lg)" stroke-opacity="0.45" stroke-width="1.5"/>
+<rect x="425" y="65" width="150" height="90" rx="14" fill="#24c6dc" fill-opacity="0" stroke="#24c6dc" stroke-width="2.5" stroke-opacity="0"><animate attributeName="fill-opacity" values="0;0;0.16;0.16;0;0" keyTimes="0;0.4011;0.4411;0.5789;0.6289;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.4011;0.4411;0.5789;0.6289;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<text x="500" y="92" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#f472b6">03</text>
+<text x="500" y="119" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="19" font-weight="700" fill="#e6edf3">EXPLORE</text>
+<text x="500" y="141" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">matplotlib | seaborn</text>
+<rect x="625" y="65" width="150" height="90" rx="14" fill="#161b22" stroke="url(#lg)" stroke-opacity="0.45" stroke-width="1.5"/>
+<rect x="625" y="65" width="150" height="90" rx="14" fill="#24c6dc" fill-opacity="0" stroke="#24c6dc" stroke-width="2.5" stroke-opacity="0"><animate attributeName="fill-opacity" values="0;0;0.16;0.16;0;0" keyTimes="0;0.6116;0.6516;0.7895;0.8395;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;0;1;1;0;0" keyTimes="0;0.6116;0.6516;0.7895;0.8395;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<text x="700" y="92" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#f472b6">04</text>
+<text x="700" y="119" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="19" font-weight="700" fill="#e6edf3">MODEL</text>
+<text x="700" y="141" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">scikit-learn | scipy</text>
+<rect x="825" y="65" width="150" height="90" rx="14" fill="#161b22" stroke="url(#lg)" stroke-opacity="0.45" stroke-width="1.5"/>
+<rect x="825" y="65" width="150" height="90" rx="14" fill="#24c6dc" fill-opacity="0" stroke="#24c6dc" stroke-width="2.5" stroke-opacity="0"><animate attributeName="fill-opacity" values="0;0;0.16;0.16;0" keyTimes="0;0.8221;0.8621;1.0;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0;0;1;1;0" keyTimes="0;0.8221;0.8621;1.0;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<text x="900" y="92" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#f472b6">05</text>
+<text x="900" y="119" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="19" font-weight="700" fill="#e6edf3">DEPLOY</text>
+<text x="900" y="141" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">flask | django</text>
+<circle r="7" fill="#fff" filter="url(#g)"><animateMotion dur="10.0s" repeatCount="indefinite" path="M25 178 H975"/></circle>
+<text x="500" y="215" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#8b949e">status: <tspan fill="#27c93f">running</tspan> <tspan fill="#24c6dc">...</tspan></text>
+</svg>
