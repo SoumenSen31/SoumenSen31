@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="72" viewBox="0 0 888 72" role="img" aria-label="Movie recommendation model: Machine learning model that recommends movies">
+<rect x="0.5" y="0.5" width="887" height="71" rx="12" fill="#14171B" stroke="#262B31"/>
+<text x="24" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6B727B">01</text>
+<text x="64" y="32" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#E6E8EB">Movie recommendation model</text>
+<text x="64" y="53" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9AA1AA">Machine learning model that recommends movies</text>
+<text x="864" y="42" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6B727B">Machine learning</text>
+</svg>
